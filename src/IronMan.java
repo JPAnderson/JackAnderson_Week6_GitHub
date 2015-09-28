@@ -4,6 +4,6 @@
 public class IronMan {
 
     public void zoom(){
-        System.out.println("Wheeeeeee!");
+        System.out.println("Pepper pots!");
     }
 }
